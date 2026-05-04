@@ -1,0 +1,23 @@
+﻿  13 - Algorithms & Problem Solving Level 5.cpp
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsString.h(47,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsString.h(59,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsString.h(196,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsString.h(327,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsString.h(375,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\13 - Algorithms & Problem Solving Level 5\clsQueueLine.h(108,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '13%20-%20Algorithms%20&%20Problem%20Solving%20Level%205.cpp')
+  
+  13 - Algorithms & Problem Solving Level 5.vcxproj -> C:\Users\Bashichda\source\repos\13 - Algorithms & Problem Solving Level 5\x64\Debug\13 - Algorithms & Problem Solving Level 5.exe
